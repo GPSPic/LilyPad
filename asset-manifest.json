@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LilyPad/static/css/main.b4be79b2.css",
+    "main.js": "/LilyPad/static/js/main.a948219e.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/LilyPad/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/LilyPad/index.html",
+    "main.b4be79b2.css.map": "/LilyPad/static/css/main.b4be79b2.css.map",
+    "main.a948219e.js.map": "/LilyPad/static/js/main.a948219e.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/LilyPad/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4be79b2.css",
+    "static/js/main.a948219e.js"
+  ]
+}
